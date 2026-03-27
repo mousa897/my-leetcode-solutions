@@ -5,6 +5,6 @@ Solving problems daily to improve my problem solving skills.
 
 ## Progress
 
-- Easy: 13
+- Easy: 14
 - Medium: 1
 - Hard: 0
